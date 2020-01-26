@@ -1,6 +1,6 @@
 # buscador_de_gifs
 
-Buscador de gifs
+Buscador de gifs (Gif finder)
 
 ## Getting Started
 
